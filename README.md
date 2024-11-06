@@ -4,7 +4,7 @@
    - Web interfaces using TS/JS, React, Angular
    - Microservices using Java, JS, Springboot, Postgres & Dynamo &
    - Akka service mesh using docker, kubernates, AWS ECS & ECR.
-   - Extensively using Serverless, AWS, CI/CD, Dev Ops.
+   - Serverless, Lambda, AWS, CI/CD, Dev Ops.
    - Mentoring & leading as needed.
 - 🌱 I’m currently learning scalable System Design & AWS Solutions Architect certifications.
 - 💬 Ask me about Typescript, Microservices, Software web applications design & implementations.
