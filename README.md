@@ -1,11 +1,11 @@
 <h1 align="left">Hi there 👋</h1>
 
 - 🔭 I’m currently working on
-  Web interfaces using TS/JS, React, Angular
-  Microservices using Java, JS, Springboot, Postgres & Dynamo &
-  Akka service mesh using docker, kubernates, AWS ECS & ECR.
-  Extensively using Serverless, AWS, CI/CD, Dev Ops.
-  Mentoring & leading as needed.
+   - Web interfaces using TS/JS, React, Angular
+   - Microservices using Java, JS, Springboot, Postgres & Dynamo &
+   - Akka service mesh using docker, kubernates, AWS ECS & ECR.
+   - Extensively using Serverless, AWS, CI/CD, Dev Ops.
+   - Mentoring & leading as needed.
 - 🌱 I’m currently learning scalable System Design & AWS Solutions Architect certifications.
 - 💬 Ask me about Typescript, Microservices, Software web applications design & implementations.
 - ⚡  I love reading, debugging, analyzing & researching new stuff.
